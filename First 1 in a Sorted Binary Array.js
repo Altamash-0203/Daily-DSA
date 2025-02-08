@@ -12,6 +12,10 @@ Input : arr[] = [0, 0, 0, 0]
 Output : -1
 Explanation: 1's are not present in the array.
 */
+// ////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
 
 function find_1(arr)
 {
@@ -34,3 +38,5 @@ const second= [0, 0, 0, 0]
 
 console.log("index of 1 is ",find_1(first))
 console.log("1 is not found",find_1(second))
+
+// ///////////////////////////////////////////////////////////////////////////////////////////////
